@@ -10,7 +10,7 @@ Un système de contrôle d'accès physique sécurisé. Il intègre une gestion l
     * *Note technique :* Les badges utilisateurs sont stockés de manière volatile. À chaque redémarrage du système, la liste est réinitialisée et seul le badge "Admin" (défini dans le code) reste valide, ce qui assure une remise à zéro automatique de la sécurité.
 
 ### 📺 Démo Vidéo
-[▶️ Voir la démonstration vidéo sur YouTube](#)
+[▶️ Voir la démonstration vidéo sur YouTube](https://youtu.be/fK-oMV9J1yQ)
 
 ### 📄 Licence
 Ce projet est sous licence **GNU GPLv3**. Vous êtes libres d'utiliser, modifier et redistribuer ce logiciel, à condition de me créditer et de conserver la même licence libre pour les travaux dérivés.
