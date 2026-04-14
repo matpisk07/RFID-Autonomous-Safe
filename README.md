@@ -23,7 +23,7 @@ Un système de contrôle d'accès physique sécurisé. Il intègre une gestion l
     * **IN2** -> Pin **7**
     * **IN3** -> Pin **8**
     * **IN4** -> Pin **9**
-    * **Alimentation Driver (VCC/GND)** -> Reliée via des **Relais** (pilotés par **A0 et A1**) pour couper le courant hors mouvement et éviter la surchauffe du moteur.
+    * **Alimentation Driver (VCC/GND)** -> Reliée via des **Relais** ou des **Transistor** (pilotés par **A0 et A1**) pour couper le courant hors mouvement et éviter la surchauffe du moteur.
 * **Interface utilisateur & Indicateurs** :
     * **LED RGB (Anode commune)** : Rouge (Pin **3**), Verte (Pin **4**), Bleue (Pin **5**).
     * **Buzzer** -> Pin **11**.
